@@ -1,0 +1,6 @@
+[submodule "blog_ke_frontend"]
+	path = blog_ke_frontend
+	url = https://github.com/Moryakprod/blog_ke_frontend
+[submodule "blog_ke_backend"]
+	path = blog_ke_backend
+	url = https://github.com/Moryakprod/blog_ke_backend
